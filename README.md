@@ -1,6 +1,22 @@
-# 🚀 Hi! I'm Kristina – a full-stack developer focused on building efficient, scalable web applications!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kristina-lev4enko)
+
+
+
+
+
+
+
+   # 🚀 Hi! I'm Kristina – a full-stack developer focused on building efficient, scalable web applications!
+
+
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kristina-lev4enko)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](kristinalev4enko89@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%23F7DF1E)](https://krislv4nk.github.io/Portfolio/)
+
+
+
+
 
 ## 🔧 Tech Stack
 
@@ -58,9 +74,28 @@ I work with a wide range of modern technologies and tools, including:
 - Team project. My role: Frontend development of the SignUp and SignIn pages and MyDailyNorma component with a modal window. On the backend, I worked on the controller and service for water tracking.
   - **Tech**: JS, React, Redux, Material UI, Node.js, MongoDB, Express
 
-## 📫 Contact Me
-
-- LinkedIn: [Kristina Lev4enko](https://www.linkedin.com/in/kristina-lev4enko)
-- Email: kristinalev4enko89@gmail.com
 
 
+### 🌱 Current Focus
+I'm currently working on enhancing my skills in authentication and route protection, with a focus on user experience and security.
+
+### 🎯 Goals
+- Improve backend performance and API integrations
+- Dive deeper into advanced state management
+
+---
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krislv4nk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Krislv4nk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krislv4nk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Krislv4nk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss any project ideas!
