@@ -2,11 +2,9 @@
 
 
 
+# 🚀 About Me:
+## Hi! I'm Kristina – a full-stack developer focused on building efficient, scalable web applications!
 
-
-
-
-   # 🚀 Hi! I'm Kristina – a full-stack developer focused on building efficient, scalable web applications!
 
 
 
@@ -85,13 +83,6 @@ I'm currently working on enhancing my skills in authentication and route protect
 
 ---
 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krislv4nk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krislv4nk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krislv4nk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Krislv4nk&icon=0&color=0)](https://visitcount.itsvg.in)
