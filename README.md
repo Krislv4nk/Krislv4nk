@@ -13,7 +13,9 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%23F7DF1E)](https://krislv4nk.github.io/Portfolio/)
 
 
+[![](https://visitcount.itsvg.in/api?id=Krislv4nk&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🔧 Tech Stack
@@ -85,8 +87,6 @@ I'm currently working on enhancing my skills in authentication and route protect
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Krislv4nk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss any project ideas!
