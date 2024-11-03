@@ -3,7 +3,7 @@
 
 
 # 🚀 About Me:
-## Hi! I'm Kristina – a full-stack developer focused on building efficient, scalable web applications!
+## Hi! I'm Kristina – a junior full-stack developer focused on building efficient, scalable web applications!
 
 
 
